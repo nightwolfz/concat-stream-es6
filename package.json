@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/nightwolfz/sinon-es.git"
+    "url": "https://github.com/nightwolfz/concat-stream-es6.git"
   },
   "dependencies": {
     "concat-stream": "*"
